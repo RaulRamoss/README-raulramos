@@ -17,6 +17,6 @@ Atualmente Analista de Dados e estudando para me tornar um Cientista de Dados. A
 </a>&nbsp;
 
 #### E pode aproveitar pra ver alguns projetos que eu criei:
-- <a href="https://sites.google.com/view/portflio-raul-ramos">
+- <a href="https://raulramoss.github.io">
     Projetos de análise de dados e criação de dashboards
   </a>
